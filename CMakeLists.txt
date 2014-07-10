@@ -21,6 +21,10 @@ module_def(sage https://github.com/omega-hub/sage.git
 module_def(scsound https://github.com/omega-hub/scsound.git
   "A preconfigured SuperCollider desktop sound server for omegalib")
 
+module_def(s2plot https://github.com/ajhub1/hub/s2plot.git NATIVE 
+  "The s2plot Library for Omegalib")
+
+
 #--------------------------------------------------------------------------------
 # Cyclops and libraries
 module_def(cyclops https://github.com/omega-hub/cyclops.git
